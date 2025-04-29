@@ -1,0 +1,1 @@
+NovaLock is a simple yet effective Python application that provides password protection for your files and folders. With an easy-to-use interface, NovaLock allows you to securely lock and unlock files using strong encryption, keeping your sensitive data safe from unauthorized access.
